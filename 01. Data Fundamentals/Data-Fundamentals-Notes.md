@@ -3,11 +3,11 @@
 -------------------------------------------
 _The Characteristics of Data_
 
-Volume
-Variety
-Velocity
-Veracity
-Value
++ Volume
++ Variety
++ Velocity
++ Veracity
++ Value
 
 -------------------------------------------
 _Data Sizes_
